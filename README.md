@@ -3,13 +3,13 @@ This repository includes two sets of java code that take integers as inputs, sor
 
 The repository contains two folders-LinkedListofIntegers and StackofIntegers.
 
-LinkedListofIntegers includes:
+[LinkedListofIntegers](/LinkedListofIntegers/) includes:
   Java file with code to take user input of integers, sort and return as a linked list.
   README file about how to compile program as well as the coding logic used.
   Javadoc file containining the help documentation.
 
-StackofIntegers includes:
+[StackofIntegers](/StackofIntegers/) includes:
   Java file with code to take user input of integers, sort and return as a stack.
-  README file about how to compile program as well as the coding logic used.
+  [README](/StackofIntegers/README.txt/) file about how to compile program as well as the coding logic used.
   Javadoc file containining the help documentation.
 
