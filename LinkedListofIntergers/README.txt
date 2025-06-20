@@ -1,4 +1,4 @@
-# LinkedListofInetgers
+# LinkedListofIntegers
 #
 # The aim of this program is to take user input of integers. It checks that each
 # value inputed is an integer. The program continues until the user enter "No" or 
